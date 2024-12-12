@@ -1,0 +1,8 @@
+let myName = 'Yulia';
+const year = 2006;
+
+const hello = (name) => { 
+    console.log('hello, ' + name);
+ }
+
+hello(myName);
